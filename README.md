@@ -1,4 +1,4 @@
-# Hi, I'm Diego 👋
+# Hi, I'm Diego
 
 **Full Stack Developer** based in Santiago, Chile 🇨🇱
 
